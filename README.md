@@ -8,5 +8,5 @@ My name is qtqgyt. I make pointless projects when I get bored, just because I ca
 - 🤔 I’m looking for help with: Nothing (Right now)
 - 💬 Ask me about: Whatever you want!
 - 📫 How to reach me: [Email me](mailto:qtqgyt@qtqgyt.net)
-- 😄 Pronouns: py/thon he/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I make random projects that are probably useless
