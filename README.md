@@ -10,3 +10,5 @@ My name is qtqgyt. I make pointless projects when I get bored, just because I ca
 - 📫 How to reach me: [Email me](mailto:qtqgyt@qtqgyt.net)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make random projects that are probably useless
+
+[![qtqgyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtqgyt&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
