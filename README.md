@@ -11,4 +11,4 @@ My name is qtqgyt. I make pointless projects when I get bored, just because I ca
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make random projects that are probably useless
 
-[![qtqgyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtqgyt&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![qtqgyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtqgyt&theme=transparent&show_icons=true&show=prs_merged_percentage&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
