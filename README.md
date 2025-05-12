@@ -2,13 +2,10 @@
 
 My name is qtqgyt. I make pointless projects when I get bored, just because I can.
 
-- 🔭 I’m currently working on: Some pointless projects and organizing my hard drive...
-- 🌱 I’m currently learning: Python and starting in more things like Javascript and Go.
-- 👯 I’m looking to collaborate on: Nothing (Right now)
-- 🤔 I’m looking for help with: Nothing (Right now)
-- 💬 Ask me about: Whatever you want!
+- 🔭 I’m currently working on: Some pointless projects
+- 🌱 I’m currently learning: Javascript and Go
+- 💬 Ask me about: Anything
 - 📫 How to reach me: [Email me](mailto:qtqgyt@qtqgyt.net)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I make random projects that are probably useless
-
+  
 [![qtqgyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtqgyt&theme=transparent&show_icons=true&show=prs_merged_percentage&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
