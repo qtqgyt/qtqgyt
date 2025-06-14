@@ -2,9 +2,7 @@
 
 My name is qtqgyt. I make pointless projects when I get bored, just because I can.
 
-- 🔭 I’m currently working on: Some pointless projects
-- 🌱 I’m currently learning: Javascript and Go
-- 💬 Ask me about: Anything
+- 🔭 I’m currently working on: Mastering Python
 - 📫 How to reach me: [Email me](mailto:qtqgyt@qtqgyt.net)
 - 😄 Pronouns: he/him
   
